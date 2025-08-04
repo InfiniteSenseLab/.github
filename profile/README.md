@@ -1,6 +1,7 @@
 # InfiniteSenseLab
 
 欢迎来到 **InfiniteSenseLab**！🌟
+<img width="1024" height="512" alt="图片" src="https://github.com/user-attachments/assets/146a2271-3467-4411-ac47-2541e778e9b4" />
 
 我们是一个致力于突破创新边界、探索无限可能性的团队。
 
