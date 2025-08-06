@@ -1,17 +1,14 @@
 # InfiniteSenseLab
 
-欢迎来到 **InfiniteSenseLab**！🌟
+Welcome to InfiniteSenseLab! 🌟  
+We explore innovation and infinite possibilities.
 
-我们是一个致力于突破创新边界、探索无限可能性的团队。
+## About Us
 
-## 关于我们
+We're a team from diverse fields, working on AI, data science, and cutting-edge software. Always learning and aiming for real impact.
 
-InfiniteSenseLab 汇聚了来自不同领域的才智，我们共同解决复杂的挑战。无论是人工智能、数据科学，还是新型软件解决方案，我们始终在学习、成长，并努力创造持久的影响。  
+## Contribution
 
-欢迎加入，一起探索无限可能！💡
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 贡献
-
-我们非常欢迎贡献！如果你有兴趣合作或有任何建议，随时提出问题或提交拉取请求。
-
-感谢访问 **InfiniteSenseLab**！让我们一起创造不可思议的东西吧。🚀
+Thanks for visiting InfiniteSenseLab — let's build something amazing! 🚀
